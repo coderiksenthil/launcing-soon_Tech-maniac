@@ -1,2 +1,2 @@
 # launcing-soon_Tech-maniac
-Launching soon website of tech maniac
+Launching soon website of tech maniac in HTML
